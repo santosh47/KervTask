@@ -1,0 +1,9 @@
+com\ker\task\pages\jobProfilePage.class
+com\ker\task\config\PathHelper.class
+com\ker\task\pages\KervPage.class
+com\ker\task\base\Base.class
+com\ker\task\base\Waits.class
+com\ker\task\base\Browser.class
+com\ker\task\base\Elements.class
+com\ker\task\config\PropertyFileReader.class
+com\ker\task\config\ConfigurationReader.class
